@@ -27,8 +27,8 @@ public class Articulo {
 
     public int setCantidadStok() {
         this.cantidadStok = cantidadStok;
+
+        return 0;
     }
+
 }
-
-
-
